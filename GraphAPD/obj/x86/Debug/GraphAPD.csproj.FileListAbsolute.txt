@@ -1,0 +1,22 @@
+F:\New Zealand\Unitec Course Material\ISCG7421 APD\Assignment 1_B\GraphAPD\GraphAPD\bin\Debug\GraphAPD.exe
+F:\New Zealand\Unitec Course Material\ISCG7421 APD\Assignment 1_B\GraphAPD\GraphAPD\bin\Debug\GraphAPD.pdb
+F:\New Zealand\Unitec Course Material\ISCG7421 APD\Assignment 1_B\GraphAPD\GraphAPD\obj\x86\Debug\GraphAPD.Form1.resources
+F:\New Zealand\Unitec Course Material\ISCG7421 APD\Assignment 1_B\GraphAPD\GraphAPD\obj\x86\Debug\GraphAPD.Form2.resources
+F:\New Zealand\Unitec Course Material\ISCG7421 APD\Assignment 1_B\GraphAPD\GraphAPD\obj\x86\Debug\GraphAPD.Form3.resources
+F:\New Zealand\Unitec Course Material\ISCG7421 APD\Assignment 1_B\GraphAPD\GraphAPD\obj\x86\Debug\GraphAPD.MainForm.resources
+F:\New Zealand\Unitec Course Material\ISCG7421 APD\Assignment 1_B\GraphAPD\GraphAPD\obj\x86\Debug\GraphAPD.Properties.Resources.resources
+F:\New Zealand\Unitec Course Material\ISCG7421 APD\Assignment 1_B\GraphAPD\GraphAPD\obj\x86\Debug\GraphAPD.csproj.GenerateResource.Cache
+F:\New Zealand\Unitec Course Material\ISCG7421 APD\Assignment 1_B\GraphAPD\GraphAPD\obj\x86\Debug\GraphAPD.exe
+F:\New Zealand\Unitec Course Material\ISCG7421 APD\Assignment 1_B\GraphAPD\GraphAPD\obj\x86\Debug\GraphAPD.pdb
+F:\New Zealand\Unitec Course Material\ISCG7421 APD\Assignment 1_B\GraphAPD\GraphAPD\obj\x86\Debug\GraphAPD.csprojResolveAssemblyReference.cache
+D:\Unitec Assignment Backups\APD  Assignment\Assignment 1_B\Rev 1.9\Assignment 1_B\GraphAPD\GraphAPD\obj\x86\Debug\GraphAPD.exe
+D:\Unitec Assignment Backups\APD  Assignment\Assignment 1_B\Rev 1.9\Assignment 1_B\GraphAPD\GraphAPD\obj\x86\Debug\GraphAPD.pdb
+D:\Unitec Assignment Backups\APD  Assignment\Assignment 1_B\Rev 1.9\Assignment 1_B\GraphAPD\GraphAPD\bin\Debug\GraphAPD.exe
+D:\Unitec Assignment Backups\APD  Assignment\Assignment 1_B\Rev 1.9\Assignment 1_B\GraphAPD\GraphAPD\bin\Debug\GraphAPD.pdb
+D:\Unitec Assignment Backups\APD  Assignment\Assignment 1_B\Rev 1.9\Assignment 1_B\GraphAPD\GraphAPD\obj\x86\Debug\GraphAPD.csprojResolveAssemblyReference.cache
+D:\Unitec Assignment Backups\APD  Assignment\Assignment 1_B\Rev 1.9\Assignment 1_B\GraphAPD\GraphAPD\obj\x86\Debug\GraphAPD.Form1.resources
+D:\Unitec Assignment Backups\APD  Assignment\Assignment 1_B\Rev 1.9\Assignment 1_B\GraphAPD\GraphAPD\obj\x86\Debug\GraphAPD.Form2.resources
+D:\Unitec Assignment Backups\APD  Assignment\Assignment 1_B\Rev 1.9\Assignment 1_B\GraphAPD\GraphAPD\obj\x86\Debug\GraphAPD.Form3.resources
+D:\Unitec Assignment Backups\APD  Assignment\Assignment 1_B\Rev 1.9\Assignment 1_B\GraphAPD\GraphAPD\obj\x86\Debug\GraphAPD.MainForm.resources
+D:\Unitec Assignment Backups\APD  Assignment\Assignment 1_B\Rev 1.9\Assignment 1_B\GraphAPD\GraphAPD\obj\x86\Debug\GraphAPD.Properties.Resources.resources
+D:\Unitec Assignment Backups\APD  Assignment\Assignment 1_B\Rev 1.9\Assignment 1_B\GraphAPD\GraphAPD\obj\x86\Debug\GraphAPD.csproj.GenerateResource.Cache
